@@ -1,0 +1,4 @@
+Dequeue doesn't work correctly when there was more than one item in the queue
+Enqueue doesn't work correctly when there was more than one item in the queue 
+PeekFront does not work correctly when there was more than one item in the queue
+Using ValGrind, there also appears that there are memory leaks in the program. 
